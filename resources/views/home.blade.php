@@ -116,17 +116,17 @@
         <div class="row">
             <div class="col-12 col-md-4 p-5 mt-3">
                 <a href="#"><img src="{{asset('img/epices.jpg')}}" class="rounded-circle img-fluid border"></a>
-                <h5 class="text-center mt-3 mb-3">La Box Epice et <br> sauce</h5>
+                <h5 class="text-center mt-3 mb-3">La Box Epice et <br> Sauce</h5>
                 <p class="text-center"><a class="btn btn-success">Voir</a></p>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
                 <a href="#"><img src="{{asset('img/cereale.jpg')}}" class="rounded-circle img-fluid border"></a>
-                <h2 class="h5 text-center mt-3 mb-3">Produits à base de céréales</h2>
+                <h2 class="h5 text-center mt-3 mb-3">Produits à base de Céréale</h2>
                 <p class="text-center"><a class="btn btn-success">Voir</a></p>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./assets/img/category_img_03.jpg" class="rounded-circle img-fluid border"></a>
-                <h2 class="h5 text-center mt-3 mb-3">?</h2>
+                <a href="#"><img src="{{asset('img/amusegueule.png')}}" class="rounded-circle img-fluid border"></a>
+                <h2 class="h5 text-center mt-3 mb-3">Les Amuses-Gueules</h2>
                 <p class="text-center"><a class="btn btn-success">Voir</a></p>
             </div>
         </div>
